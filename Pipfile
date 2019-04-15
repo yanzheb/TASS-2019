@@ -1,0 +1,26 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+nltk = "*"
+ipykernel = "*"
+scikit-learn = "*"
+pandas = "*"
+numpy = "*"
+tqdm = "*"
+pyspellchecker = "*"
+ftfy = "*"
+polyglot = "*"
+autopep8 = "*"
+spacy = "*"
+pyicu = "*"
+pycld2 = "*"
+morfessor = "*"
+matplotlib = "*"
+
+[requires]
+python_version = "3.7"
