@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "5ebc8b703b64ca6ab554b613bbf083d73da1681aad66fe674bf841939000a80b"
+            "sha256": "4fc516a6299b1be7a9836442753edd90613c57ec888e330ed9278c08b2fc2509"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -227,6 +227,13 @@
             ],
             "index": "pypi",
             "version": "==2.0.4"
+        },
+        "mtranslate": {
+            "hashes": [
+                "sha256:4fd2afcecbfa904e5e4eb7e8b5623d1f76e2941d1e68a40e21ed041aa111e46e"
+            ],
+            "index": "pypi",
+            "version": "==1.6"
         },
         "murmurhash": {
             "hashes": [

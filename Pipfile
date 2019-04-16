@@ -21,6 +21,7 @@ pyicu = "*"
 pycld2 = "*"
 morfessor = "*"
 matplotlib = "*"
+mtranslate = "*"
 
 [requires]
 python_version = "3.7"
