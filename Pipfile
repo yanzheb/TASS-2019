@@ -23,6 +23,7 @@ morfessor = "*"
 matplotlib = "*"
 mtranslate = "*"
 xgboost = "*"
+unidecode = "*"
 
 [requires]
 python_version = "3.7"
