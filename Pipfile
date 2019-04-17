@@ -22,6 +22,7 @@ pycld2 = "*"
 morfessor = "*"
 matplotlib = "*"
 mtranslate = "*"
+xgboost = "*"
 
 [requires]
 python_version = "3.7"
